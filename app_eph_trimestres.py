@@ -463,3 +463,4 @@ if hog_file and ind_file:
         )
 else:
     st.warning("Subí las dos bases (Hogares e Individuos) para continuar.")
+
